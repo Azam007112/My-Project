@@ -1,0 +1,56 @@
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Onlin food ordering App.dll.config
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Onlin food ordering App.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Onlin food ordering App.pdb
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Antlr3.Runtime.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\EntityFramework.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\EntityFramework.SqlServer.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.Google.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Web.Infrastructure.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Newtonsoft.Json.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Owin.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.Helpers.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.Mvc.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.Optimization.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.Razor.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.WebPages.Deployment.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.WebPages.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.WebPages.Razor.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\WebGrease.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.Helpers.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.Mvc.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.Optimization.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.Razor.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.WebPages.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.WebPages.Deployment.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\System.Web.WebPages.Razor.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Antlr3.Runtime.pdb
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Newtonsoft.Json.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\EntityFramework.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\EntityFramework.SqlServer.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.Google.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\obj\Debug\Onlin_food_ordering_App.Migrations.Food.resources
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\obj\Debug\Onlin food ordering App.csproj.GenerateResource.Cache
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\obj\Debug\Onlin food ordering App.dll
+D:\DOT_NET\LT-5\Onlin food ordering App\Onlin food ordering App\obj\Debug\Onlin food ordering App.pdb
